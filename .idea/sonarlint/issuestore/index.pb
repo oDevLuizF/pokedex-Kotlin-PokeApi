@@ -1,3 +1,31 @@
 
 g
 7app/src/main/java/com/example/pokedexs1/MainActivity.kt,9/3/93ba9fe3e7fb980826aca71e4be40c81ea28e855
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+j
+:app/src/main/java/com/example/pokedexs1/view/PokemonAdp.kt,2/d/2d338dfcddcbe0783e217993d97a295600df6d15
+j
+:app/src/main/java/com/example/pokedexs1/api/PokemonRepo.kt,b/6/b69c07fbc7516977c242b27129943c0ba83701ee
+n
+>app/src/main/java/com/example/pokedexs1/view/PokemonAdapter.kt,3/1/31b8a2d01528975ae8731f6ac42d7a2858d8b906
+k
+;app/src/main/java/com/example/pokedexs1/ui/theme/Pokemon.kt,d/2/d23c79b47fcc0d4814996a87cc47d5106cdd7095
+o
+?app/src/main/java/com/example/pokedexs1/ui/theme/PokemonType.kt,b/5/b531e9459d4bc80245d2ff41fce6054a4d926fc3
+i
+9app/src/main/java/com/example/pokedexs1/domain/Pokemon.kt,d/4/d4b36981ebf45ff174287d6169bf3e666653bb94
+m
+=app/src/main/java/com/example/pokedexs1/domain/PokemonType.kt,4/2/42ecdb1aee7ae48cca60af72bfae231072d20472
+l
+<app/src/main/java/com/example/pokedexs1/view/MainActivity.kt,9/6/96dff37d18fd82b2adfe1bb935bbca6b39dae5c0
+f
+6app/src/main/java/com/example/pokedexs1/view/ListOf.kt,d/2/d2536bd16352058237c2379958c85c96573b19f5
+i
+9app/src/main/java/com/example/pokedexs1/ui/theme/Theme.kt,1/8/18587df906aa7129f15d34b96525c2029c27e1f1
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
